@@ -369,8 +369,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* --- Nouvelle section projets + soft skills --- */
-
 #projects-softskills {
   display: flex;
   gap: 40px;
